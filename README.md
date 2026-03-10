@@ -36,31 +36,3 @@ npm run dev
 ```sh
 npm run build
 ```
-
-## Folders structure
-my-vue-app/
-│
-├─ node_modules/
-│
-├─ public/
-│   └─ favicon.ico
-│
-├─ src/
-│   │
-│   ├─ assets/
-│   │   └─ images, css, fonts
-│   │
-│   ├─ components/
-│   │   └─ HelloWorld.vue
-│   │
-│   ├─ App.vue
-│   ├─ main.js   (sau main.ts)
-│   │
-│   └─ style.css
-│
-├─ .gitignore
-├─ index.html
-├─ package.json
-├─ package-lock.json
-├─ vite.config.js
-└─ README.md
